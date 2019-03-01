@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /hakkimda/
 ---
 
-Some information about you!
+Merhaba ben Büşra Danışman Pamukkale'de bilgisayar programcılığı okuyorum.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[busraadanismann@gmail.com](mailto:busraadanismann@gmail.com)
